@@ -7,7 +7,9 @@ image-sm: https://unsplash.it/500/300?image=1062
 ---
 
 
-My road to software development has been long and winding. I've always been curious about computers ever since the first one appeared in our living room. My first attempt at coding was in high school and I remember the wonders of Visual Basic. It seemed so exciting but at the time I was frustrated with what I could accomplish with it. Sure I could program an interface that could add two numbers but I didn't see where that would take me or how I could accomplish something bigger.
+My road to software development has been long and winding. I've always been curious about computers ever since the first one appeared in our living room. 
+
+My first attempt at coding was in high school and I remember the wonders of Visual Basic. It seemed so exciting but at the time I was frustrated with what I could accomplish with it. Sure I could program an interface that could add two numbers but I didn't see where that would take me or how I could accomplish something bigger.
 
 I didn't really get very far with Visual Basic but when I entered college in 2003, I juggled the idea of becoming a computer scientist. First year computer science was very Java oriented at the time and once again, I failed to see the practicality. Back then the coding landscape seemed like a different beast. I didn't want to end up at a giant conglomerate ending in soft working on a tiny piece of a project. I ended up completing a BCOM and ironically I have been twaddling around in accounting for the eight years.
 

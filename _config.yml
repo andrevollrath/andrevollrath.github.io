@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: andre@vollrath.ca
 copyright_name: andrevollrath
 description: > # this means to ignore newlines until "baseurl:"
-  By Drew Vollrath
+  by Drew Vollrath
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  andrevollrath

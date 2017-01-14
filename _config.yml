@@ -1,0 +1,21 @@
+# Site settings
+title: By Another Name
+header-img: img/home-bg.png
+email: andre@vollrath.ca
+copyright_name: andrevollrath
+description: > # this means to ignore newlines until "baseurl:"
+  By Drew Vollrath
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  andrevollrath
+learn_profile: andrevollrath
+email_username: andre@vollrath.ca
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
